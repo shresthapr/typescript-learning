@@ -1,0 +1,26 @@
+{
+  "name": "typescript-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myscript.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shresthapr/typescript-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shresthapr/typescript-learning/issues"
+  },
+  "homepage": "https://github.com/shresthapr/typescript-learning#readme"
+}
